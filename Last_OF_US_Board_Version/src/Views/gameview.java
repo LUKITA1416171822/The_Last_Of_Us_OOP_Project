@@ -67,9 +67,9 @@ public class gameview implements EventHandler<MouseEvent> {
   static Media h1=new Media(Paths.get(s2).toUri().toString());
 static    MediaPlayer mediaPlayer;
 static MediaPlayer mediaPlayer2;
-static Media media1 = new Media(new File("C:\\Users\\Yahia Hesham\\Downloads\\Untitled video - Made with Clipchamp (3).mp4").toURI().toString());
-static MediaPlayer mediaPlayer1 = new MediaPlayer(media1);
-static MediaView mediaView1 = new MediaView(mediaPlayer1);
+//static Media media1 = new Media(new File("C:\\Users\\Yahia Hesham\\Downloads\\Untitled video - Made with Clipchamp (3).mp4").toURI().toString());
+//static MediaPlayer mediaPlayer1 = new MediaPlayer(media1);
+//static MediaView mediaView1 = new MediaView(mediaPlayer1);
 //static Media media2 = new Media(new File("C:\\Users\\Yahia Hesham\\eclipse-workspace\\Milestone2-Solution\\src\\trap.mp3").toURI().toString());
 //static MediaPlayer mediaPlayer2 = new MediaPlayer(media2);
 //static MediaView mediaView2 = new MediaView(mediaPlayer2);
